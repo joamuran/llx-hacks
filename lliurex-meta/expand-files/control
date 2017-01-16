@@ -4,5 +4,5 @@ Lliurex-Flavours: client
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: MetaPackage of Lliurex
-List of all packages for lliurex
+ List of all packages for lliurex
 
