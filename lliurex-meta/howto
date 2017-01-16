@@ -1,0 +1,11 @@
+1. Download lliurex-meta and apply changes for extra mata with:
+
+./ create.sh
+
+2. Generate seeds into lliurex-meta/trunk/fuentes with:
+
+./generatemeta.sh
+
+3. Build and sign packages and upload to launchpad. 
+
+# Info about lliurex-meta: http://wiki.lliurex.net/tiki-read_article.php?articleId=27

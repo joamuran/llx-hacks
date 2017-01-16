@@ -24,6 +24,6 @@ cat ./expand-files/STRUCTURE >> $METAPATH/seeds/lliurex/STRUCTURE
 
 #metapackage-map
 
-cat ./expand-files/metapackage-map  >> $METAPATH/
+cat ./expand-files/metapackage-map  >> $METAPATH/metapackage-map
 
 
